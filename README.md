@@ -1,1 +1,6 @@
-# tailwind-unique
+# Tailwind Unique
+
+
+# installation
+npm tailwind-unique
+
