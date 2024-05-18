@@ -3,7 +3,7 @@ import { twMerge } from "tailwind-merge";
 import { cva } from "class-variance-authority";
 
 const Grid =({,,,,,,,,,,,})=>{
-const styles=cva(['grid',''],{
+const styles=cva(['grid','grid-cols-1'],{
 variants:{
 xs:{'grid-cols-1'},
 responsive:[
