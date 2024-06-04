@@ -7,7 +7,7 @@
 
 [license-url]: https://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[![npm License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]
+[![npm License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 ## Installation
 
 ```js
