@@ -1,0 +1,11 @@
+package-lock.json
+/node_modules
+vite.config.js
+.eslintrc.cjs
+postcss.config.js
+.babelrc
+src/assets
+src/main.js
+src/main.jsx
+src/App.js
+src/App.jsx
