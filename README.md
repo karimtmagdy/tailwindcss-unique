@@ -3,12 +3,15 @@
 [![License][license-image]][license-url]
 [![npm version](https://img.shields.io/npm/v/tailwind-unique.svg?style=flat-square)](https://www.npmjs.org/package/tailwind-unique)
 [![npm downloads](https://img.shields.io/npm/dm/tailwind-unique.svg?style=flat-square)](https://npm-stat.com/charts.html?package=tailwind-unique)
+[![npm License](https://img.shields.io/npm/dm/tailwind-unique.svg?style=flat-square)](https://npm-stat.com/charts.html?package=tailwind-unique)
 
 <!-- Variables -->
 
 [license-url]: https://opensource.org/licenses/MIT
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge
+<!-- [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge -->
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 
+https://img.shields.io/npm/l/badge-maker.svg
 ## Installation
 
 ```js
