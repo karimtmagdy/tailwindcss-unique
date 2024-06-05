@@ -1,9 +1,11 @@
-import React from 'react'
+import { cva } from "class-variance-authority";
+import { twMerge } from "tailwind-merge";
 
-const Container = ({ children ,className}) => {
+const Container = ({ children, className }) => {
+  const style = cva(["container"], {});
   return (
-    <div>{children}</div>
-  )
-}
+    <section className={twMerge(style({}), className)}>{children}</section>
+  );
+};
 
-export default Container
+export default Container;
