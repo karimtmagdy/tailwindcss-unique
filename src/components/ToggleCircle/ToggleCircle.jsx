@@ -1,9 +1,5 @@
-import React from 'react'
-
 const ToggleCircle = () => {
-  return (
-    <div>ToggleCircle</div>
-  )
+  return <div>ToggleCircle</div>
 }
 
 export default ToggleCircle
