@@ -1,7 +1,8 @@
-import {cva} from ''
+import {cva} from 'class-variance-authority'
 import {twMerge} from 'tailwind-marge' 
 const SideMenu = ({className,children}) => {
-  return <aside className={twMerge()}>{children}</aside>
+const style = cva([],{})
+  return <aside className={twMerge(style({}),className)}>{children}</aside>
 }
 
 export default SideMenu
