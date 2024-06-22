@@ -1,9 +1,5 @@
-import React from 'react'
-
 const SubMenu = () => {
-  return (
-    <div>SubMenu</div>
-  )
+  return <ul>SubMenu</ul>
 }
 
 export default SubMenu
